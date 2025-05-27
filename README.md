@@ -59,7 +59,6 @@ Let me show You a tour to my account.
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCf8FbEv3iLQ20KiFZwv9mlg?style=social)](https://youtube.com/channel/UCf8FbEv3iLQ20KiFZwv9mlg?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/alohyt_?style=social)](https://www.twitch.tv/alohyt_)
 [![GitHub followers](https://img.shields.io/github/followers/xAloh-YTx?style=social)](https://github.com/xAloh-YTx)
-[![Instagram](https://img.shields.io/badge/Instagram-%23FFFFFF?logo=instagram&logoColor=%23FF0069)](https://www.instagram.com/alohxd_._official)
 
 
 
